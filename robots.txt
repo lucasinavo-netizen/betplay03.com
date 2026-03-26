@@ -28,4 +28,4 @@ User-agent: MSNBot
 Disallow: 
 User-agent: *
 Disallow: /cdn-cgi/
-Sitemap: https://betplay.com/sitemap.xml
+Sitemap: https://betplay03.com/sitemap.xml
